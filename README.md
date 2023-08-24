@@ -11,4 +11,6 @@ This is the most manuvurable of the chassis and can change directions without tu
 ## Initial Design (Quick Sketch)
 ![topdown](https://github.com/Luca-Skyline/Ctrl-Alt-Defeat/blob/main/images/topdown.JPG)
 ![sideview](https://github.com/Luca-Skyline/Ctrl-Alt-Defeat/blob/main/images/sideview.JPG)
-<img width="300" alt="ChassisOnlineDiagram" src="https://github.com/Luca-Skyline/Ctrl-Alt-Defeat/assets/89172997/99d6db8e-86ec-49a2-87b9-2a1f0465cddb">
+![digital topdown](https://github.com/Luca-Skyline/Ctrl-Alt-Defeat/assets/89172997/5df6d273-ad81-4f9e-98a4-ca534b5a29e5)
+
+
