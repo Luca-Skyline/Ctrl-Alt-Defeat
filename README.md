@@ -2,8 +2,6 @@
 
 Discription of the bot
 
-## Dino Bot
+## X Drive
 
-![Dino](https://github.com/Luca-Skyline/Ctrl-Alt-Defeat/assets/89172997/7b725776-1ed7-4d5d-bc45-62712aeef7ac)
-
-![BotDesginV.1.0.0]()
+This is the most manuvurable of the chassis and can change directions without turning. It is also quite fast compared to all of the options. We think using this omni-directional chassis will make the engineering and programming elements of our bot easier because we will have less to deal with from our bot turning or needing to reposition itself in order to move foward. On top of that, it is the cooolest looking chassis so we have a obligation to pick it. 
