@@ -1,6 +1,6 @@
 # Ctrl+Alt+DEFEAT
 
-Discription of the bot
+Description of the bot
 
 ## X Drive
 #### X-Drive. A four wheel bot with each wheel in the corner of a square frame and the sides of each wheel facing central. 
