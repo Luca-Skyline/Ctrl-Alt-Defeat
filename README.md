@@ -1,5 +1,6 @@
 # Ctrl+Alt+DEFEAT
-Robotics team composed of Luca DalCanto, Kai Rosenbluth, and Jacob Scher - Skyline High School 2023-2024.
+Robotics team composed of Luca DalCanto, Kai Rosenbluth, and Jacob Scher
+Skyline High School 2023-2024.
 # 
 Luca Brainstorming:
 - X Drive (most manueverable, fastest, and coolest. Would allow us to juke most other robots and reduce time wasted turning - we can literally turn while driving with some mad coding)
