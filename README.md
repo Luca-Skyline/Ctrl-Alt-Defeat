@@ -29,10 +29,14 @@ Single Arm Concept:
 This is the most manuvurable of the chassis and can change directions without turning. The four omnidirection wheels are able to mantain a motion on any combanation of the four axis while being able to manuver the arm in a manner to be able to manipulate the Triball. It is also quite fast compared to all of the options as it does not need to slow down to turn and can pivot in place. We think using this omni-directional chassis will not only improve the programming of the bot, not requiring as many steps to turn, but also help the human driver manuver the bot in a quick and timly manner. On top of that, it is the most unique looking chassis so we have a further incentive to pick it as it will make our bot stand out in the padock and show the judges that we are able to come up with new and more unconventional drivetrains instead of following the norm. It is also possible that the bot can be controlled by two operators, a driver and an arm manipulator. Because the bot can pivot while driving and maintain the same direction, the driver can focus on posistioning the bot and the AM can focus on grabbing Triballs.
 
 ## Initial Design (Quick Sketch)
+#### Topdown Drawing
 ![topdown](https://github.com/Luca-Skyline/Ctrl-Alt-Defeat/blob/main/images/topdown.JPG)
+
+#### Sideview Drawing
 
 ![sideview](https://github.com/Luca-Skyline/Ctrl-Alt-Defeat/assets/89172997/550bcf93-66c5-4dce-9857-a8a38713aa8c)
 
+#### Digital Sketch
 
 ![digital topdown](https://github.com/Luca-Skyline/Ctrl-Alt-Defeat/assets/89172997/5df6d273-ad81-4f9e-98a4-ca534b5a29e5)
 
