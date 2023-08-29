@@ -30,7 +30,7 @@ This is the most manuvurable of the chassis and can change directions without tu
 
 ## Initial Design (Quick Sketch)
 #### Topdown Drawing:
-![topdown](https://github.com/Luca-Skyline/Ctrl-Alt-Defeat/blob/main/images/topdown.JPG)
+![Top view of first bot concept](https://github.com/Luca-Skyline/Ctrl-Alt-Defeat/blob/main/images/topdown.JPG)
 
 #### Sideview Drawing:
 
