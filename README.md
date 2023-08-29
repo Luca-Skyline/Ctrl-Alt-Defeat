@@ -41,3 +41,7 @@ This is the most manuvurable of the chassis and can change directions without tu
 ![digital topdown](https://github.com/Luca-Skyline/Ctrl-Alt-Defeat/assets/89172997/5df6d273-ad81-4f9e-98a4-ca534b5a29e5)
 
 
+## Throwing Arm Design 
+
+If given near-180 degree rotation vertically, this arm could also trow triballs with high accuracy. When on defense, it could sit touching the ball load zone, get constantly loaded with triballs, and throw them constantly into our zone. We'd need to design a way to make it fast and strong, possibly with a rubber band system (just have to make sure our robot doesn't beat itself up too bad with repeated stopping of this high velocity arm!!)
+
