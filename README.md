@@ -17,8 +17,8 @@ Jacob Brainstorming:
 - Telescoping arm?
 - Not possible
 - Scissor arm?
-  
 
+  
 Single Arm Concept:
 ![single arm concept](https://github.com/Luca-Skyline/Ctrl-Alt-Defeat/blob/main/images/IMG_2786.JPG)
 
