@@ -8,4 +8,4 @@
 
 After some consideration looking at our robot pieces, we decided to change our robot's chassis design. 
 
-## New Chassis Design Digital Model (Model #1)
+## New Chassis Design Digital Model (Model #2)
