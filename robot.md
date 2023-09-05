@@ -9,3 +9,5 @@
 After some consideration looking at our robot pieces, we decided to change our robot's chassis design. 
 
 ## New Chassis Design Digital Model (Model #2)
+
+![chassis model 2](https://github.com/Luca-Skyline/Ctrl-Alt-Defeat/assets/89172997/7aa6b86f-d730-454d-8535-857c584bf327)
