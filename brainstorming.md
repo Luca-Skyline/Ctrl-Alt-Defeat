@@ -15,3 +15,11 @@ Jacob Brainstorming:
 - Telescoping arm?
 - Not possible
 - Scissor arm?
+
+
+![scissor lift arm sketch](https://github.com/Luca-Skyline/Ctrl-Alt-Defeat/assets/89172997/378cde8a-6285-4a26-b64f-b8fc118e30fa)
+
+
+![arm with robot sketch](https://github.com/Luca-Skyline/Ctrl-Alt-Defeat/assets/89172997/e66db1a1-349b-4a50-95bb-02390bd8e556)
+
+
