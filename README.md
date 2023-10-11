@@ -5,9 +5,9 @@ Skyline High School 2023-2024.
 
 ## Evidence progress after drivetrain:
 ![img](https://github.com/Luca-Skyline/Ctrl-Alt-Defeat/blob/main/images/ObjectManipulatorSketch.png)
-![img](https://github.com/Luca-Skyline/Ctrl-Alt-Defeat/blob/main/images/IMG_2861.png)
-![img](https://github.com/Luca-Skyline/Ctrl-Alt-Defeat/blob/main/images/IMG_2863.png)
-![img](https://github.com/Luca-Skyline/Ctrl-Alt-Defeat/blob/main/images/IMG_2889.png)
+![img](https://github.com/Luca-Skyline/Ctrl-Alt-Defeat/blob/main/images/IMG_2861.JPG)
+![img](https://github.com/Luca-Skyline/Ctrl-Alt-Defeat/blob/main/images/IMG_2863.JPG)
+![img](https://github.com/Luca-Skyline/Ctrl-Alt-Defeat/blob/main/images/IMG_2889.JPG)
 
 
 
