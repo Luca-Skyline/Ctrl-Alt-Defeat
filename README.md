@@ -3,7 +3,13 @@ Robotics team composed of Luca DalCanto, Kai Rosenbluth, and Jacob Scher. <br>
 Skyline High School 2023-2024.
 # 
 
+## Evidence progress after drivetrain:
 ![img](https://github.com/Luca-Skyline/Ctrl-Alt-Defeat/blob/main/images/ObjectManipulatorSketch.png)
+![img](https://github.com/Luca-Skyline/Ctrl-Alt-Defeat/blob/main/images/IMG_2861.png)
+![img](https://github.com/Luca-Skyline/Ctrl-Alt-Defeat/blob/main/images/IMG_2863.png)
+![img](https://github.com/Luca-Skyline/Ctrl-Alt-Defeat/blob/main/images/IMG_2889.png)
+
+
 
 ### Current Progress Images:
 ![images/side_chassis.JPG](https://github.com/Luca-Skyline/Ctrl-Alt-Defeat/blob/fa414729e3f74d0d5329e4f7f616793d5b98eec3/images/side_chassis.JPG)
