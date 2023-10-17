@@ -38,7 +38,9 @@ After some consideration looking at our robot pieces, we decided to change our r
 ## Intake Designs 
 
 
-### Intake Diagram (Model #1)
+### Intake Diagram (Idea #1)
 
-![intake 1 diagram](https://github.com/Luca-Skyline/Ctrl-Alt-Defeat/assets/89172997/65c99f63-d5cc-4773-a665-1ceb29b335f5)
+![intake idea 1 diagram](https://github.com/Luca-Skyline/Ctrl-Alt-Defeat/assets/89172997/65c99f63-d5cc-4773-a665-1ceb29b335f5)
 
+
+### Intake Diagram (Model #1) (Topview) 
