@@ -29,7 +29,7 @@ After some consideration looking at our robot pieces, we decided to change our r
 ![chassis 2 updated model](https://github.com/Luca-Skyline/Ctrl-Alt-Defeat/assets/89172997/119f9b45-6d46-4d40-989b-26a7f9db8b8b)
 
 
-### Chassis Digital Model Sideview (Model #2) 
+### Chassis Digital Model (Model #2) (Sideview) 
 
 ![chasis 2 sideview](https://github.com/Luca-Skyline/Ctrl-Alt-Defeat/assets/89172997/6c6a54d4-e229-4887-a1ef-cc4bbd1f578b)
 
@@ -43,4 +43,4 @@ After some consideration looking at our robot pieces, we decided to change our r
 ![intake idea 1 diagram](https://github.com/Luca-Skyline/Ctrl-Alt-Defeat/assets/89172997/65c99f63-d5cc-4773-a665-1ceb29b335f5)
 
 
-### Intake Diagram (Model #1) (Topview) 
+### Intake Diagram (Model #1)  
