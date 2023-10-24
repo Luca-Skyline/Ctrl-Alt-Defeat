@@ -11,22 +11,6 @@ An offensive, fast, manueverable robot, possibly equipped for competition in the
 - Rotate while driving in one direction (with two drivers)
 - Intake and throwing capability of a Triball
 
-## Planning After Drivetrain: (outdated)
-![img](https://github.com/Luca-Skyline/Ctrl-Alt-Defeat/blob/main/images/ObjectManipulatorSketch.png)
-![img](https://github.com/Luca-Skyline/Ctrl-Alt-Defeat/blob/main/images/IMG_2861.JPG)
-![img](https://github.com/Luca-Skyline/Ctrl-Alt-Defeat/blob/main/images/IMG_2863.JPG)
-![img](https://github.com/Luca-Skyline/Ctrl-Alt-Defeat/blob/main/images/IMG_2889.JPG)
-
-
-
-### Current Progress Images:
-![images/side_chassis.JPG](https://github.com/Luca-Skyline/Ctrl-Alt-Defeat/blob/fa414729e3f74d0d5329e4f7f616793d5b98eec3/images/side_chassis.JPG)
-![top chassis](https://github.com/Luca-Skyline/Ctrl-Alt-Defeat/blob/fa414729e3f74d0d5329e4f7f616793d5b98eec3/images/top_chassis.JPG)
-
-  
-Single Arm Concept:
-![single arm concept](https://github.com/Luca-Skyline/Ctrl-Alt-Defeat/blob/main/images/IMG_2786.JPG)
-
 ## X Drive
 #### X-Drive. A four wheel bot with each wheel in the corner of a square frame and the sides of each wheel facing central. 
 # 
@@ -44,6 +28,24 @@ This is the most manuvurable of the chassis and can change directions without tu
 #### Digital Sketch:
 
 ![digital topdown](https://github.com/Luca-Skyline/Ctrl-Alt-Defeat/assets/89172997/5df6d273-ad81-4f9e-98a4-ca534b5a29e5)
+
+
+## Planning After Drivetrain: (outdated)
+![img](https://github.com/Luca-Skyline/Ctrl-Alt-Defeat/blob/main/images/ObjectManipulatorSketch.png)
+![img](https://github.com/Luca-Skyline/Ctrl-Alt-Defeat/blob/main/images/IMG_2861.JPG)
+![img](https://github.com/Luca-Skyline/Ctrl-Alt-Defeat/blob/main/images/IMG_2863.JPG)
+![img](https://github.com/Luca-Skyline/Ctrl-Alt-Defeat/blob/main/images/IMG_2889.JPG)
+
+
+
+### Current Progress Images:
+![images/side_chassis.JPG](https://github.com/Luca-Skyline/Ctrl-Alt-Defeat/blob/fa414729e3f74d0d5329e4f7f616793d5b98eec3/images/side_chassis.JPG)
+![top chassis](https://github.com/Luca-Skyline/Ctrl-Alt-Defeat/blob/fa414729e3f74d0d5329e4f7f616793d5b98eec3/images/top_chassis.JPG)
+
+  
+Single Arm Concept:
+![single arm concept](https://github.com/Luca-Skyline/Ctrl-Alt-Defeat/blob/main/images/IMG_2786.JPG)
+
 
 
 ## Throwing Arm Design 
