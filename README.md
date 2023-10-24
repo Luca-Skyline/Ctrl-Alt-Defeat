@@ -3,7 +3,16 @@ Robotics team composed of Luca DalCanto, Kai Rosenbluth, and Jacob Scher. <br>
 Skyline High School 2023-2024.
 # 
 
-## Evidence progress after drivetrain:
+## Objective:
+An offensive, fast, manueverable robot, possibly equipped for competition in the V5 competition Over Under.
+
+## Planned Capabilites:
+- Omnidirectional drive 
+- Rotate while driving in one direction (with two drivers)
+- Intake and throwing capability of a Triball
+- 
+
+## Planning After Drivetrain: (outdated)
 ![img](https://github.com/Luca-Skyline/Ctrl-Alt-Defeat/blob/main/images/ObjectManipulatorSketch.png)
 ![img](https://github.com/Luca-Skyline/Ctrl-Alt-Defeat/blob/main/images/IMG_2861.JPG)
 ![img](https://github.com/Luca-Skyline/Ctrl-Alt-Defeat/blob/main/images/IMG_2863.JPG)
