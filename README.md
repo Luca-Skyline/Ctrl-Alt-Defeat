@@ -10,7 +10,6 @@ An offensive, fast, manueverable robot, possibly equipped for competition in the
 - Omnidirectional drive 
 - Rotate while driving in one direction (with two drivers)
 - Intake and throwing capability of a Triball
-- 
 
 ## Planning After Drivetrain: (outdated)
 ![img](https://github.com/Luca-Skyline/Ctrl-Alt-Defeat/blob/main/images/ObjectManipulatorSketch.png)
