@@ -38,6 +38,11 @@ This is the most manuvurable of the chassis and can change directions without tu
 
 # Robot Progress 
 
+### Intake Diagram (Idea #1)  
+
+![intake idea 2 diagram](https://github.com/Luca-Skyline/Ctrl-Alt-Defeat/assets/89172997/e11db840-8a0c-4e0a-9806-d87dace37599)
+
+
 
 ## Chassis Designs 
 ### Chassis Digital Model (Model #1)
