@@ -47,3 +47,10 @@ After some consideration looking at our robot pieces, we decided to change our r
 
 ![intake idea 2 diagram](https://github.com/Luca-Skyline/Ctrl-Alt-Defeat/assets/89172997/e11db840-8a0c-4e0a-9806-d87dace37599)
 
+
+## Sensor Diagrams 
+
+### Intake Diagram (Idea #1)  
+
+![sensor diagram 1]()
+
