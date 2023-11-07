@@ -41,7 +41,7 @@ We brainstormed some ideas around how the robot would collect and move the triba
 <img src='https://github.com/Luca-Skyline/Ctrl-Alt-Defeat/assets/89172997/6ec0d30d-715e-4fe1-871f-65528199240c' width='500' height='500'> <img src= 'https://github.com/Luca-Skyline/Ctrl-Alt-Defeat/assets/89172997/f896e13b-1e28-488b-9480-bc3b1e7fd162' width='500' height='500'>
 
 
-After some consideration looking at our robot pieces, we decided to change our robot's chassis design. The wheels needed to be better protected and 
+This was our initial design after looking at some references online and thinking through its viability. After some consideration looking at our robot pieces, we decided to change our robot's chassis design is order to better protect the wheels and provide better placement for the brain. 
 
 ### Chassis Design Digital Model (Model #2)
 ![chassis model 2](https://github.com/Luca-Skyline/Ctrl-Alt-Defeat/assets/89172997/7aa6b86f-d730-454d-8535-857c584bf327)
