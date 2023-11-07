@@ -52,17 +52,8 @@ This is own new chassis design with the two main bars being closer inwars creati
 
 <img src='https://github.com/Luca-Skyline/Ctrl-Alt-Defeat/assets/89172997/87e8406b-73c4-43c5-b939-80b0255f957a' width='500' height='500'> <img src= 'https://github.com/Luca-Skyline/Ctrl-Alt-Defeat/assets/89172997/119f9b45-6d46-4d40-989b-26a7f9db8b8b' width='500' height='500'>
 
-
-
-
-
-![measurements model 2](https://github.com/Luca-Skyline/Ctrl-Alt-Defeat/assets/89172997/87e8406b-73c4-43c5-b939-80b0255f957a)
 ### Updated Chassis Design Digital Model (Model #2)
 ![chassis 2 updated model](https://github.com/Luca-Skyline/Ctrl-Alt-Defeat/assets/89172997/119f9b45-6d46-4d40-989b-26a7f9db8b8b)
-
-
-
-
 
 
 ### Chassis Digital Model (Model #2) (Sideview) 
