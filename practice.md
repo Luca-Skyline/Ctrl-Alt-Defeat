@@ -59,8 +59,8 @@ This is the most accurate model of our chassis with more accurate wheels and hol
 ![chasis 2 sideview](https://github.com/Luca-Skyline/Ctrl-Alt-Defeat/assets/89172997/6c6a54d4-e229-4887-a1ef-cc4bbd1f578b)
 
 
-#
-
+<br />
+<br />
 
 # Intake Design 
 
