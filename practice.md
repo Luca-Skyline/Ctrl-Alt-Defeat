@@ -29,7 +29,7 @@ This is the most manuvurable of the chassis and can change directions without tu
 # Robot Progress 
 
 ### Intake Diagram (Idea #1)  
-<img src='https://github.com/Luca-Skyline/Ctrl-Alt-Defeat/assets/89172997/e11db840-8a0c-4e0a-9806-d87dace37599' width='500' height='600'> <img src= 'https://github.com/Luca-Skyline/Ctrl-Alt-Defeat/assets/89172997/2c4c3f61-0294-4844-b334-4e48eba99ce0' width='500' height='600'>
+<img src='https://github.com/Luca-Skyline/Ctrl-Alt-Defeat/assets/89172997/e11db840-8a0c-4e0a-9806-d87dace37599' width='500' height='600'> <img src= 'https://github.com/Luca-Skyline/Ctrl-Alt-Defeat/assets/89172997/2c4c3f61-0294-4844-b334-4e48eba99ce0' width='600' height='600'>
 
 
 
