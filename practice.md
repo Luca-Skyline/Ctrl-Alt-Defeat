@@ -29,7 +29,7 @@ An offensive, fast, manueverable robot, possibly equipped for competition in the
 
 
 ## X Drive
-#### X-Drive. A four wheel bot with each wheel in the corner of a square frame and the sides of each wheel facing central. 
+### X-Drive. A four wheel bot with each wheel in the corner of a square frame and the sides of each wheel facing central. 
 # 
 
 This is the most manuvurable of the chassis and can change directions without turning. The four omnidirection wheels are able to mantain a motion on any combanation of the four axis while being able to manuver the arm in a manner to be able to manipulate the Triball. It is also quite fast compared to all of the options as it does not need to slow down to turn and can pivot in place. We think using this omni-directional chassis will not only improve the programming of the bot, not requiring as many steps to turn, but also help the human driver manuver the bot in a quick and timly manner. On top of that, it is the most unique looking chassis so we have a further incentive to pick it as it will make our bot stand out in the padock and show the judges that we are able to come up with new and more unconventional drivetrains instead of following the norm. It is also possible that the bot can be controlled by two operators, a driver and an arm manipulator. Because the bot can pivot while driving and maintain the same direction, the driver can focus on posistioning the bot and the AM can focus on grabbing Triballs.
@@ -70,7 +70,19 @@ This is the most accurate model of our chassis with more accurate wheels and hol
 
 
 
-## Intake Design 
+
+
+# Intake Design 
+
+## Brainstorm 
+
+### Throwing Arm Design (Sketch) 
+![single arm concept](https://github.com/Luca-Skyline/Ctrl-Alt-Defeat/blob/main/images/IMG_2786.JPG)
+If given near-180 degree rotation vertically, this arm could also trow triballs with high accuracy. When on defense, it could sit touching the ball load zone, get constantly loaded with triballs, and throw them constantly into our zone. We'd need to design a way to make it fast and strong, possibly with a rubber band system (just have to make sure our robot doesn't beat itself up too bad with repeated stopping of this high velocity arm!!)
+
+How to throw something (Jacob):
+- Rubber band snaps arm back (Only 90 degrees of rotation)
+- Motor throws (Too little power)
 
 ### Intake Diagrams (Idea #1) 
 <img src='https://github.com/Luca-Skyline/Ctrl-Alt-Defeat/assets/89172997/e11db840-8a0c-4e0a-9806-d87dace37599' width='400' height='500'> <img src= 'https://github.com/Luca-Skyline/Ctrl-Alt-Defeat/assets/89172997/2c4c3f61-0294-4844-b334-4e48eba99ce0' width='600' height='500'>
@@ -95,18 +107,7 @@ We brainstormed some ideas around how the robot would collect and move the triba
 ![top chassis](https://github.com/Luca-Skyline/Ctrl-Alt-Defeat/blob/fa414729e3f74d0d5329e4f7f616793d5b98eec3/images/top_chassis.JPG)
 
   
-Single Arm Concept:
-![single arm concept](https://github.com/Luca-Skyline/Ctrl-Alt-Defeat/blob/main/images/IMG_2786.JPG)
 
-
-
-## Throwing Arm Design 
-
-If given near-180 degree rotation vertically, this arm could also trow triballs with high accuracy. When on defense, it could sit touching the ball load zone, get constantly loaded with triballs, and throw them constantly into our zone. We'd need to design a way to make it fast and strong, possibly with a rubber band system (just have to make sure our robot doesn't beat itself up too bad with repeated stopping of this high velocity arm!!)
-
-How to throw something (Jacob):
-- Rubber band snaps arm back (Only 90 degrees of rotation)
-- Motor throws (Too little power)
 
 
 
