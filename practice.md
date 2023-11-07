@@ -102,10 +102,11 @@ We brainstormed some ideas around how the robot would collect and move the triba
 
 <img src='https://github.com/Luca-Skyline/Ctrl-Alt-Defeat/blob/main/images/IMG_2861.JPG' width='500' height='400'> <img src= 'https://github.com/Luca-Skyline/Ctrl-Alt-Defeat/blob/main/images/IMG_2863.JPG' width='500' height='400'>
 
-<img src='https://github.com/Luca-Skyline/Ctrl-Alt-Defeat/blob/main/images/IMG_2889.JPG' width='500' height='400'> <img src= '' width='500' height='400'>
+<img src='https://github.com/Luca-Skyline/Ctrl-Alt-Defeat/blob/main/images/IMG_2889.JPG' width='500' height='400'> <img src= 'https://github.com/Luca-Skyline/Ctrl-Alt-Defeat/assets/89172997/b918bb2d-08e8-441c-8901-40a07512c15d' width='500' height='400'>
 
 ![img](https://github.com/Luca-Skyline/Ctrl-Alt-Defeat/blob/main/images/IMG_2889.JPG)
 
+![image](https://github.com/Luca-Skyline/Ctrl-Alt-Defeat/assets/89172997/b918bb2d-08e8-441c-8901-40a07512c15d)
 
 
 ### Current Progress Images:
