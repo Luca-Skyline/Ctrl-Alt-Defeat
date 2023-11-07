@@ -14,10 +14,6 @@ An offensive, fast, manueverable robot, possibly equipped for competition in the
 
 
 
-
-
-
-
 ## X Drive
 ### X-Drive. A four wheel bot with each wheel in the corner of a square frame and the sides of each wheel facing central. 
 # 
