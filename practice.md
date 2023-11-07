@@ -24,16 +24,22 @@ This is the most manuvurable of the chassis and can change directions without tu
 
 
 
-
-
 # Robot Progress 
 
-## Intake Design 
+## Brainstorming 
 
-### Intake Diagrams (Idea #1) 
-<img src='https://github.com/Luca-Skyline/Ctrl-Alt-Defeat/assets/89172997/e11db840-8a0c-4e0a-9806-d87dace37599' width='400' height='500'> <img src= 'https://github.com/Luca-Skyline/Ctrl-Alt-Defeat/assets/89172997/2c4c3f61-0294-4844-b334-4e48eba99ce0' width='600' height='500'>
+### Topdown Sketch (Initial Design)
+![Top view of first bot concept](https://github.com/Luca-Skyline/Ctrl-Alt-Defeat/blob/main/images/topdown.JPG)
 
-We brainstormed some ideas around how the robot would collect and move the triballs around. Our first idea revolved around these gree wheels being moved to make contact with triballs and then rotating to bring thm in and let the robot hold them. This would double as a possible distrobution system with the wheels rotating the opposite direction to throw the triballs int he desired direction. Moreover, the design also contains a piston (as seen with the red dot in the left diagram) to hit the balls in the desired direction. The piston can provide power and distence the wheels might not be able to. 
+#### Sideview Sketch (Initial Design)
+
+![sideview](https://github.com/Luca-Skyline/Ctrl-Alt-Defeat/assets/89172997/550bcf93-66c5-4dce-9857-a8a38713aa8c)
+
+#### Digital Sketch (Initial Design)
+
+![digital topdown](https://github.com/Luca-Skyline/Ctrl-Alt-Defeat/assets/89172997/5df6d273-ad81-4f9e-98a4-ca534b5a29e5)
+
+
 
 ## Chassis Design 
 
@@ -64,32 +70,15 @@ This is the most accurate model of our chassis with more accurate wheels and hol
 
 
 
+## Intake Design 
 
-## Intake Designs 
+### Intake Diagrams (Idea #1) 
+<img src='https://github.com/Luca-Skyline/Ctrl-Alt-Defeat/assets/89172997/e11db840-8a0c-4e0a-9806-d87dace37599' width='400' height='500'> <img src= 'https://github.com/Luca-Skyline/Ctrl-Alt-Defeat/assets/89172997/2c4c3f61-0294-4844-b334-4e48eba99ce0' width='600' height='500'>
 
-
-### Intake Diagram (Idea #1)
-
-![intake idea 1 diagram](https://github.com/Luca-Skyline/Ctrl-Alt-Defeat/assets/89172997/65c99f63-d5cc-4773-a665-1ceb29b335f5)
-
-
-### Intake Diagram (Idea #1)  
+We brainstormed some ideas around how the robot would collect and move the triballs around. Our first idea revolved around these gree wheels being moved to make contact with triballs and then rotating to bring thm in and let the robot hold them. This would double as a possible distrobution system with the wheels rotating the opposite direction to throw the triballs int he desired direction. Moreover, the design also contains a piston (as seen with the red dot in the left diagram) to hit the balls in the desired direction. The piston can provide power and distence the wheels might not be able to. 
 
 
 
-
-
-## Initial Design (Quick Sketch)
-#### Topdown Drawing:
-![Top view of first bot concept](https://github.com/Luca-Skyline/Ctrl-Alt-Defeat/blob/main/images/topdown.JPG)
-
-#### Sideview Drawing:
-
-![sideview](https://github.com/Luca-Skyline/Ctrl-Alt-Defeat/assets/89172997/550bcf93-66c5-4dce-9857-a8a38713aa8c)
-
-#### Digital Sketch:
-
-![digital topdown](https://github.com/Luca-Skyline/Ctrl-Alt-Defeat/assets/89172997/5df6d273-ad81-4f9e-98a4-ca534b5a29e5)
 
 
 
