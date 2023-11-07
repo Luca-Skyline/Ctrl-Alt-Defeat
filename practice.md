@@ -13,7 +13,7 @@ An offensive, fast, manueverable robot, possibly equipped for competition in the
 
 
 
-
+# Chassis Design 
 ## X Drive
 ### X-Drive. A four wheel bot with each wheel in the corner of a square frame and the sides of each wheel facing central. 
 # 
@@ -31,7 +31,7 @@ This is the most manuvurable of the chassis and can change directions without tu
 
 
 
-## Chassis Design 
+## Chassis Models  
 
 ### Chassis Digital Diagrams (Model #1)
 <img src='https://github.com/Luca-Skyline/Ctrl-Alt-Defeat/assets/89172997/6ec0d30d-715e-4fe1-871f-65528199240c' width='500' height='500'> <img src= 'https://github.com/Luca-Skyline/Ctrl-Alt-Defeat/assets/89172997/f896e13b-1e28-488b-9480-bc3b1e7fd162' width='500' height='500'>
