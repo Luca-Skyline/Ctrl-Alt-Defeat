@@ -58,7 +58,7 @@ These models show the measurements of our chassis which is almost exactly 35 by 
 ### Updated Chassis Design Digital Model (Model #2)
 ![chassis 2 updated model](https://github.com/Luca-Skyline/Ctrl-Alt-Defeat/assets/89172997/119f9b45-6d46-4d40-989b-26a7f9db8b8b)
 
-This is the most accurate model of our chassis with more accurate wheels and hole measurments included. 
+This is the most accurate model of our chassis with more improved wheels and hole measurements included. 
 
 ### Chassis Digital Model (Model #2) (Sideview) 
 ![chasis 2 sideview](https://github.com/Luca-Skyline/Ctrl-Alt-Defeat/assets/89172997/6c6a54d4-e229-4887-a1ef-cc4bbd1f578b)
