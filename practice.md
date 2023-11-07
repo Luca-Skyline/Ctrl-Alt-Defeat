@@ -31,7 +31,7 @@ This is the most manuvurable of the chassis and can change directions without tu
 ### Intake Diagrams (Idea #1) 
 <img src='https://github.com/Luca-Skyline/Ctrl-Alt-Defeat/assets/89172997/e11db840-8a0c-4e0a-9806-d87dace37599' width='400' height='500'> <img src= 'https://github.com/Luca-Skyline/Ctrl-Alt-Defeat/assets/89172997/2c4c3f61-0294-4844-b334-4e48eba99ce0' width='600' height='500'>
 
-
+We brainstormed some ideas around how the robot would collect and move the triballs around. Our first idea revolved around these gree wheels being moved to make contact with triballs and then rotating to bring thm in and let the robot hold them. This would double as a possible distrobution system with the wheels rotating the opposite direction to throw the triballs int he desired direction. Moreover, the design also contains a piston (as seen with the red dot in the left diagram) to hit the balls in the desired direction. The piston can provide power and distence the wheels might not be able to. 
 
 ## Chassis Designs 
 
