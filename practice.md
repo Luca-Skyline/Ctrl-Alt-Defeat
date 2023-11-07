@@ -99,7 +99,6 @@ We brainstormed some ideas around how the robot would collect and move the triba
 
 
 ## Planning After Drivetrain: (outdated)
-![img](https://github.com/Luca-Skyline/Ctrl-Alt-Defeat/blob/main/images/ObjectManipulatorSketch.png)
 ![img](https://github.com/Luca-Skyline/Ctrl-Alt-Defeat/blob/main/images/IMG_2861.JPG)
 ![img](https://github.com/Luca-Skyline/Ctrl-Alt-Defeat/blob/main/images/IMG_2863.JPG)
 ![img](https://github.com/Luca-Skyline/Ctrl-Alt-Defeat/blob/main/images/IMG_2889.JPG)
