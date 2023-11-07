@@ -54,7 +54,6 @@ This is own new chassis design with the two main bars being closer inwars creati
 
 These models show the measurements of our chassis which is almost exactly 35 by 35 holes with a hole translating to "". So around "" by "". 
 
-<br />
 
 ### Updated Chassis Design Digital Model (Model #2)
 ![chassis 2 updated model](https://github.com/Luca-Skyline/Ctrl-Alt-Defeat/assets/89172997/119f9b45-6d46-4d40-989b-26a7f9db8b8b)
@@ -69,6 +68,7 @@ This is the most accurate model of our chassis with more accurate wheels and hol
 <br />
 <br />
 <br />
+
 
 # Intake Design 
 
