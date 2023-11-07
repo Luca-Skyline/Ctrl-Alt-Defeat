@@ -13,6 +13,18 @@ An offensive, fast, manueverable robot, possibly equipped for competition in the
 
 
 
+## Brainstorming 
+
+### Topdown Sketch (Initial Design)
+![Top view of first bot concept](https://github.com/Luca-Skyline/Ctrl-Alt-Defeat/blob/main/images/topdown.JPG)
+
+### Sideview Sketch (Initial Design)
+
+![sideview](https://github.com/Luca-Skyline/Ctrl-Alt-Defeat/assets/89172997/550bcf93-66c5-4dce-9857-a8a38713aa8c)
+
+
+
+
 
 
 
@@ -26,18 +38,6 @@ This is the most manuvurable of the chassis and can change directions without tu
 
 # Robot Progress 
 
-## Brainstorming 
-
-### Topdown Sketch (Initial Design)
-![Top view of first bot concept](https://github.com/Luca-Skyline/Ctrl-Alt-Defeat/blob/main/images/topdown.JPG)
-
-#### Sideview Sketch (Initial Design)
-
-![sideview](https://github.com/Luca-Skyline/Ctrl-Alt-Defeat/assets/89172997/550bcf93-66c5-4dce-9857-a8a38713aa8c)
-
-#### Digital Sketch (Initial Design)
-
-![digital topdown](https://github.com/Luca-Skyline/Ctrl-Alt-Defeat/assets/89172997/5df6d273-ad81-4f9e-98a4-ca534b5a29e5)
 
 
 
