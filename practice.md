@@ -52,9 +52,12 @@ This is own new chassis design with the two main bars being closer inwars creati
 
 <img src='https://github.com/Luca-Skyline/Ctrl-Alt-Defeat/assets/89172997/87e8406b-73c4-43c5-b939-80b0255f957a' width='500' height='500'> <img src= 'https://github.com/Luca-Skyline/Ctrl-Alt-Defeat/assets/89172997/119f9b45-6d46-4d40-989b-26a7f9db8b8b' width='500' height='500'>
 
+These models show the measurements of our chassis which is almost exactly 35 by 35 holes with a hole translating to "". So around "" by "". 
+
 ### Updated Chassis Design Digital Model (Model #2)
 ![chassis 2 updated model](https://github.com/Luca-Skyline/Ctrl-Alt-Defeat/assets/89172997/119f9b45-6d46-4d40-989b-26a7f9db8b8b)
 
+This is the most accurate model of our chassis with more accurate wheels and hole measurments included. 
 
 ### Chassis Digital Model (Model #2) (Sideview) 
 ![chasis 2 sideview](https://github.com/Luca-Skyline/Ctrl-Alt-Defeat/assets/89172997/6c6a54d4-e229-4887-a1ef-cc4bbd1f578b)
