@@ -35,12 +35,9 @@ This is the most manuvurable of the chassis and can change directions without tu
 
 ## Chassis Designs 
 
+### Chassis Digital Diagrams (Model #1)
 <img src='https://github.com/Luca-Skyline/Ctrl-Alt-Defeat/assets/89172997/6ec0d30d-715e-4fe1-871f-65528199240c' width='500' height='500'> <img src= 'https://github.com/Luca-Skyline/Ctrl-Alt-Defeat/assets/89172997/f896e13b-1e28-488b-9480-bc3b1e7fd162' width='500' height='500'>
 
-### Chassis Digital Model (Model #1)
-
-### Updated Chassis Digital Model (Model #1)
-![updated chassis model 1](https://github.com/Luca-Skyline/Ctrl-Alt-Defeat/assets/89172997/f896e13b-1e28-488b-9480-bc3b1e7fd162)
 
 After some consideration looking at our robot pieces, we decided to change our robot's chassis design. The wheels needed to be better protected and 
 
