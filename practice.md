@@ -14,11 +14,17 @@ An offensive, fast, manueverable robot, possibly equipped for competition in the
 
 
 # Chassis Design 
+
+<br />
+
 ## X Drive
 ### X-Drive. A four wheel bot with each wheel in the corner of a square frame and the sides of each wheel facing central. 
 # 
 
 This is the most manuvurable of the chassis and can change directions without turning. The four omnidirection wheels are able to mantain a motion on any combanation of the four axis while being able to manuver the arm in a manner to be able to manipulate the Triball. It is also quite fast compared to all of the options as it does not need to slow down to turn and can pivot in place. We think using this omni-directional chassis will not only improve the programming of the bot, not requiring as many steps to turn, but also help the human driver manuver the bot in a quick and timly manner. On top of that, it is the most unique looking chassis so we have a further incentive to pick it as it will make our bot stand out in the padock and show the judges that we are able to come up with new and more unconventional drivetrains instead of following the norm. It is also possible that the bot can be controlled by two operators, a driver and an arm manipulator. Because the bot can pivot while driving and maintain the same direction, the driver can focus on posistioning the bot and the AM can focus on grabbing Triballs.
+
+<br />
+<br />
 
 ## Brainstorming 
 
@@ -29,7 +35,8 @@ This is the most manuvurable of the chassis and can change directions without tu
 
 ![sideview](https://github.com/Luca-Skyline/Ctrl-Alt-Defeat/assets/89172997/550bcf93-66c5-4dce-9857-a8a38713aa8c)
 
-
+<br />
+<br />
 
 ## Chassis Models  
 
@@ -50,6 +57,8 @@ This is own new chassis design with the two main bars being closer inwars creati
 
 These models show the measurements of our chassis which is almost exactly 35 by 35 holes with a hole translating to "". So around "" by "". 
 
+<br />
+
 ### Updated Chassis Design Digital Model (Model #2)
 ![chassis 2 updated model](https://github.com/Luca-Skyline/Ctrl-Alt-Defeat/assets/89172997/119f9b45-6d46-4d40-989b-26a7f9db8b8b)
 
@@ -59,6 +68,8 @@ This is the most accurate model of our chassis with more accurate wheels and hol
 ![chasis 2 sideview](https://github.com/Luca-Skyline/Ctrl-Alt-Defeat/assets/89172997/6c6a54d4-e229-4887-a1ef-cc4bbd1f578b)
 
 
+<br />
+<br />
 <br />
 <br />
 
