@@ -44,12 +44,27 @@ We brainstormed some ideas around how the robot would collect and move the triba
 This was our initial design after looking at some references online and thinking through its viability. After some consideration looking at our robot pieces, we decided to change our robot's chassis design is order to better protect the wheels and provide better placement for the brain. 
 
 ### Chassis Design Digital Model (Model #2)
-![chassis model 2](https://github.com/Luca-Skyline/Ctrl-Alt-Defeat/assets/89172997/7aa6b86f-d730-454d-8535-857c584bf327)
+![chassis model 2](https://github.com/Luca-Skyline/Ctrl-Alt-Defeat/assets/89172997/7aa6b86f-d730-454d-8535-857c584bf327) 
+
+This is own new chassis design with the two main bars being closer inwars creating a more rectandular shape. 
 
 ### Measurements Chassis Digital Model (Model #2)
+
+<img src='https://github.com/Luca-Skyline/Ctrl-Alt-Defeat/assets/89172997/87e8406b-73c4-43c5-b939-80b0255f957a' width='500' height='500'> <img src= 'https://github.com/Luca-Skyline/Ctrl-Alt-Defeat/assets/89172997/119f9b45-6d46-4d40-989b-26a7f9db8b8b' width='500' height='500'>
+
+
+
+
+
 ![measurements model 2](https://github.com/Luca-Skyline/Ctrl-Alt-Defeat/assets/89172997/87e8406b-73c4-43c5-b939-80b0255f957a)
 ### Updated Chassis Design Digital Model (Model #2)
 ![chassis 2 updated model](https://github.com/Luca-Skyline/Ctrl-Alt-Defeat/assets/89172997/119f9b45-6d46-4d40-989b-26a7f9db8b8b)
+
+
+
+
+
+
 ### Chassis Digital Model (Model #2) (Sideview) 
 ![chasis 2 sideview](https://github.com/Luca-Skyline/Ctrl-Alt-Defeat/assets/89172997/6c6a54d4-e229-4887-a1ef-cc4bbd1f578b)
 
