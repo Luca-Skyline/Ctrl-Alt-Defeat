@@ -64,6 +64,10 @@ This is the most accurate model of our chassis with more improved wheels and hol
 ![chasis 2 sideview](https://github.com/Luca-Skyline/Ctrl-Alt-Defeat/assets/89172997/6c6a54d4-e229-4887-a1ef-cc4bbd1f578b)
 
 
+## Chassis  Model 
+
+This is our real life chassis after finishing most of the building. 
+
 <br />
 <br />
 <br />
