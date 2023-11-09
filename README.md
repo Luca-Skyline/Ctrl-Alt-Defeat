@@ -3,7 +3,8 @@ Robotics Team:
 - Luca DalCanto (**Builder**, Programmer)
 - Kai Rosenbluth (**Programmer**, Documenter)
 - Jacob Scher (**Driver**, Builder)
-Skyline High School 2023-2024.
+  
+Skyline High School 2023-2024. <br>
 Format: (**Official Role**, Additional Role)
 # 
 
