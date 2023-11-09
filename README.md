@@ -1,6 +1,10 @@
 # Ctrl+Alt+DEFEAT
-Robotics team composed of Luca DalCanto, Kai Rosenbluth, and Jacob Scher. <br>
+Robotics Team:
+- Luca DalCanto (**Builder**, Programmer)
+- Kai Rosenbluth (**Programmer**, Documenter)
+- Jacob Scher (**Driver**, Builder)
 Skyline High School 2023-2024.
+Format: (**Official Role**, Additional Role)
 # 
 
 ## Objective:
