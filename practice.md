@@ -64,9 +64,11 @@ This is the most accurate model of our chassis with more improved wheels and hol
 ![chasis 2 sideview](https://github.com/Luca-Skyline/Ctrl-Alt-Defeat/assets/89172997/6c6a54d4-e229-4887-a1ef-cc4bbd1f578b)
 
 
-## Chassis  Model 
+## Chassis  Model (Sideview and Topview) 
 
 This is our real life chassis after finishing most of the building. 
+![images/side_chassis.JPG](https://github.com/Luca-Skyline/Ctrl-Alt-Defeat/blob/fa414729e3f74d0d5329e4f7f616793d5b98eec3/images/side_chassis.JPG)
+![top chassis](https://github.com/Luca-Skyline/Ctrl-Alt-Defeat/blob/fa414729e3f74d0d5329e4f7f616793d5b98eec3/images/top_chassis.JPG)
 
 <br />
 <br />
@@ -111,8 +113,7 @@ We brainstormed some ideas around how the robot would collect and move the triba
 
 
 ### Current Progress Images:
-![images/side_chassis.JPG](https://github.com/Luca-Skyline/Ctrl-Alt-Defeat/blob/fa414729e3f74d0d5329e4f7f616793d5b98eec3/images/side_chassis.JPG)
-![top chassis](https://github.com/Luca-Skyline/Ctrl-Alt-Defeat/blob/fa414729e3f74d0d5329e4f7f616793d5b98eec3/images/top_chassis.JPG)
+
 
   
 
