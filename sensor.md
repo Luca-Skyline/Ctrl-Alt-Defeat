@@ -7,7 +7,7 @@
 ### Sideview 1 
 ![sideview1](https://github.com/Luca-Skyline/Ctrl-Alt-Defeat/assets/89172997/1e8b9f9d-6b7b-4318-9c48-b6cac9bb2c6a)
 
-You can see the senor up on the front of the bot. 
+You can see the senor up on the front of the bot with the red glow. 
 
 ### Sideview 2 
 ![sideview2](https://github.com/Luca-Skyline/Ctrl-Alt-Defeat/assets/89172997/79bc191a-3050-4426-a7fc-fafc8b595d18)
