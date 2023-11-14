@@ -3,7 +3,7 @@
 We are programming a sensor on our bot so we can determine the bots front and turning displacement from pointing foward. Knowing this will let us give the bot's driver the ability to reset the bot's front position making sure the controls are never inverted. THis will make driving much easier making completeing tasks more likely. 
 
 ### Frontview 
-![topview](https://github.com/Luca-Skyline/Ctrl-Alt-Defeat/blob/main/images/PushSystemTopview.jpg?raw=true)
+![frontview](https://github.com/Luca-Skyline/Ctrl-Alt-Defeat/blob/main/images/SensorFrontview.jpg?raw=true)
 
 
 ### Sideview  
