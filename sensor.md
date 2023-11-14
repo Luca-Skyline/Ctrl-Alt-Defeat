@@ -13,3 +13,5 @@ You can see the senor up on the front of the bot with the red glow.
 
 ## Code 
 [recent push code](https://github.com/Luca-Skyline/Ctrl-Alt-Defeat/blob/main/src/NewNewPlusIntake.v5blocks)
+
+So far we have used the sensor to program the tracking system meaning we know the bots displacement while driving. We have also programmed resetting the front of the bot and are now working on making the robot's controls change in cooridination with the front changing. 
