@@ -108,12 +108,16 @@ We brainstormed some ideas around how the robot would collect and move the triba
 
 # Programming Design
 
+For the programming we wanted to set it so one controller controled the vertical and horizontal movement of the bot while another control determined the bots rotation and intake system. 
 
 ## Planning After Drivetrain: (outdated)
 
 <img src='https://github.com/Luca-Skyline/Ctrl-Alt-Defeat/blob/main/images/IMG_2861.JPG' width='500' height='400'> <img src= 'https://github.com/Luca-Skyline/Ctrl-Alt-Defeat/blob/main/images/IMG_2863.JPG' width='500' height='400'>
 
 <img src='https://github.com/Luca-Skyline/Ctrl-Alt-Defeat/blob/main/images/IMG_2889.JPG' width='500' height='400'> <img src= 'https://github.com/Luca-Skyline/Ctrl-Alt-Defeat/assets/89172997/b918bb2d-08e8-441c-8901-40a07512c15d' width='500' height='400'>
+
+
+
 
 
 
