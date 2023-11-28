@@ -102,6 +102,13 @@ We brainstormed some ideas around how the robot would collect and move the triba
 
 We decided on initially remove the wheels due to a lack of materials and a lack of effectiveness in testing. Instead we focused on a push system for the bot, deciding on adding wheels and better intake later. We have a metal bar that can be pushed in and out with a button to assit in moving triballs. 
 
+### Arm Sideview (1 and 2) 
+![arm sideview 1](https://github.com/Luca-Skyline/Ctrl-Alt-Defeat/assets/89172997/37347d8f-33a2-46d4-b1cb-b8ca8cf6d7de)
+
+![arm sideview 2](https://github.com/Luca-Skyline/Ctrl-Alt-Defeat/assets/89172997/e718d2d3-c25d-401b-81d6-aa2fc82b0943)
+
+### Arm Topview 
+![arm topview](https://github.com/Luca-Skyline/Ctrl-Alt-Defeat/blob/main/images/PushSystemTopview.jpg?raw=true)
 
 <br />
 <br />
