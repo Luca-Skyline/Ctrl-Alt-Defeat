@@ -98,6 +98,10 @@ How to throw something (Jacob):
 
 We brainstormed some ideas around how the robot would collect and move the triballs around. Our first idea revolved around these gree wheels being moved to make contact with triballs and then rotating to bring thm in and let the robot hold them. This would double as a possible distrobution system with the wheels rotating the opposite direction to throw the triballs int he desired direction. Moreover, the design also contains a piston (as seen with the red dot in the left diagram) to hit the balls in the desired direction. The piston can provide power and distence the wheels might not be able to. 
 
+## Implemented Arm Design 
+
+We decided on initially remove the wheels due to a lack of materials and a lack of effectiveness in testing. Instead we focused on a push system for the bot, deciding on adding wheels and better intake later. We have a metal bar that can be pushed in and out with a button to assit in moving triballs. 
+
 
 <br />
 <br />
