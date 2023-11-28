@@ -108,7 +108,7 @@ We decided on initially remove the wheels due to a lack of materials and a lack 
 ![arm sideview 2](https://github.com/Luca-Skyline/Ctrl-Alt-Defeat/assets/89172997/e718d2d3-c25d-401b-81d6-aa2fc82b0943)
 
 ### Arm Topview 
-![arm topview](https://github.com/Luca-Skyline/Ctrl-Alt-Defeat/blob/main/images/PushSystemTopview.jpg?raw=true)
+![arm topview](https://github.com/Luca-Skyline/Ctrl-Alt-Defeat/blob/main/images/FinalPushSystemTopview.png?raw=true)
 
 <br />
 <br />
