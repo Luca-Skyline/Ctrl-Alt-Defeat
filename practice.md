@@ -127,5 +127,12 @@ For the programming we wanted to set it so one controller controled the vertical
   
 # Game Progress  
 
-Our class decided 
+Our class decided to have our robots face off against each other in various games. We focused on the robot soccer and robot sumo activities. 
+
+## Sumo 
+Our robots design was not ideal for sumo do to the spread out wheels and light frame of the robot causing it to not put up much resitence when directly pushed against. 
+Regardless we still competed against classmates in casual competition and did quite well. 
+
+## Soccer  
+Our robot was well designed for soccer due to its omni directional capibilities and speed. We also implimented a arm design so we could hit the triball.  
 
